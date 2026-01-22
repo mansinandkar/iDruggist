@@ -116,7 +116,7 @@ All models were trained using the same preprocessing pipeline and evaluated on a
 
 ---
 
-## 🧠 ML Engineering Perspective
+## 🧠 Key Features
 This project demonstrates:
 - Practical handling of **multi-source clinical data**
 - Feature reduction grounded in **domain relevance**

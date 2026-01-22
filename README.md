@@ -132,3 +132,8 @@ This project demonstrates:
 - Convert the model into a REST-based clinical scoring service
 
 ---
+
+## 🤝 Contributors
+- Mansi Nandkar
+- Avantika Jalote
+
